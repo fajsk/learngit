@@ -5,3 +5,4 @@ git tracks changes of files.
 git remote.
 create a new branch is quick and simple.
 new branch dev
+git stash
